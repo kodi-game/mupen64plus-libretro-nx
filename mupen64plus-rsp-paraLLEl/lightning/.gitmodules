@@ -1,3 +1,3 @@
 [submodule "gnulib"]
-	path = gnulib
+	path = mupen64plus-rsp-paraLLEl/lightning/gnulib
 	url = git://git.sv.gnu.org/gnulib.git
